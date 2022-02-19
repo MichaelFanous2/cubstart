@@ -1,0 +1,25 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#bored-button {
+  cursor: pointer;
+  height: 50px;
+  width: 100px;
+  font-size: large;
+  color: #000;
+  background-color:purple;
+}
+#card {
+  font-size: medium;
+  font-family:'Times New Roman', Times, serif;
+  border: honeydew;
+  border-spacing: auto;
+  padding:.3cm;
+  background-color: grey;
+  margin: 30px
+}
